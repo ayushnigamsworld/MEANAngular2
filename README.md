@@ -31,7 +31,7 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-Now, coming straight to the point, how to run: 
+## Since you've ignored above bullshit, coming straight to the point, how to run: 
 
 Step 1:
 npm install -g angular-cli
