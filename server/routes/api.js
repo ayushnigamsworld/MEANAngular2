@@ -8,8 +8,8 @@ const API = 'https://jsonplaceholder.typicode.com';
 // mongoDB
 const mongojs = require('mongojs');
 
-const DB_USERNAME = '';
-const DB_PASSWORD = '';
+const DB_USERNAME = 'root';
+const DB_PASSWORD = 'root';
 const COLLECTION_NAME = 'test1';
 
 let db = mongojs(`mongodb://${DB_USERNAME}:${DB_PASSWORD}@ds259268.mlab.com:59268/meandb`, [`${COLLECTION_NAME}`]);
