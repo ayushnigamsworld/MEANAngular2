@@ -9,10 +9,14 @@ npm install -g angular-cli
 
 Step 2:
 npm install --save express body-parser
+npm install mongojs --save
 
 Step 3:
-ng build
+Change the credentials and url for mongodb
 
 Step 4:
+ng build
+
+Step 5:
 node server.js
 
