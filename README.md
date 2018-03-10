@@ -8,11 +8,11 @@ further integrated with mongo DB.
 ## Coming straight to the point, how to run: 
 
 Step 1:
-npm install -g angular-cli
+Clone this repository
+Optional(npm install -g angular-cli)
 
 Step 2:
-npm install --save express body-parser
-npm install mongojs --save
+npm install --save express body-parser mongojs
 
 Step 3:
 Change the credentials and url for mongodb
